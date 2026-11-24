@@ -1,7 +1,7 @@
 {
-    "build":  5,
-    "name":  "0.1.5",
-    "pck":  "spiel-5.pck",
+    "build":  6,
+    "name":  "0.1.6",
+    "pck":  "spiel-6.pck",
     "app_min":  1,
-    "zeit":  "2026-11-24T17:49:56"
+    "zeit":  "2026-11-24T19:45:58"
 }
